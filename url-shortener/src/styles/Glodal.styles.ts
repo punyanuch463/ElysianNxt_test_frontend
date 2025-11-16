@@ -98,7 +98,7 @@ export const globalStyle = css`
     button {
       font-size: 0.9em;
       padding: 0.5em 1em;
-      width: 100%;
+  
     }
 
     input, textarea {

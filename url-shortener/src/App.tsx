@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Shortener from "./components/Shortener";
 import History from "./components/History";
-import RedirectPage from "./components/RedirectPage";
+import RedirectPage from "./pages/RedirectPage";
 import { AppContainer } from "./styles/App.styles";
 
 const App: React.FC = () => {
